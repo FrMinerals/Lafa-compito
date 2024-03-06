@@ -1,5 +1,22 @@
-| Cosa sto facendo? | Chi sono? | Chi e lafa? |
-| --- | --- | --- |
-| Una tabella per lafa | Sono frminerals | Lafa noto come deveoloper su server minecraft |
-| Mi ha richiesto di fare una tabella | Uno sviluppatore sotto diversi linguaggi | Mi ha richiesto questa tabella per passare il provino |
-| e io sto eseguendo il suo ordine | se ti interessa @... su tg | e uno sviluppatore molto bravo che lavora per coralmc.it |
+<table id="interactive-table">
+  <thead>
+    <tr>
+      <th>Colonna 1</th>
+      <th>Colonna 2</th>
+      <th>Colonna 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ciao io sono FrMinerals 1</td>
+      <td>Ciao io sono FrMinerals</td>
+      <td>Ciao io sono FrMinerals</td>
+    </tr>
+    <tr>
+      <td>Questo e il mio progetto</td>
+      <td>Questo e il mio progetto</td>
+      <td>Questo e il mio progetto</td>
+    </tr>
+    <!-- Add more rows as needed -->
+  </tbody>
+</table>
