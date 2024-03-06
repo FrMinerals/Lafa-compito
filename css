@@ -1,0 +1,20 @@
+#interactive-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#interactive-table th,
+#interactive-table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#interactive-table th {
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+
+#interactive-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
